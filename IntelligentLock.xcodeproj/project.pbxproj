@@ -5046,7 +5046,7 @@
 					"$(PROJECT_DIR)/IntelligentLock/ThirdPart",
 					"$(PROJECT_DIR)/IntelligentLock/Lib",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.estorescanreport.IntelligentLock;
+				PRODUCT_BUNDLE_IDENTIFIER = com.haier.overseaservice;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -5083,7 +5083,7 @@
 					"$(PROJECT_DIR)/IntelligentLock/ThirdPart",
 					"$(PROJECT_DIR)/IntelligentLock/Lib",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.estorescanreport.IntelligentLock;
+				PRODUCT_BUNDLE_IDENTIFIER = com.haier.overseaservice;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
